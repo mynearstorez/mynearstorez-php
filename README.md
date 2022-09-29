@@ -1,0 +1,1 @@
+# mynearstorez-php
